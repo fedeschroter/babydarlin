@@ -55,7 +55,7 @@ nav ul li:hover .txt {
 
 header {
 	height: 100vh;
-	background: url("../images/portada.jpg");
+	background: url("../images/Portada.jpg");
 	background-size: cover;
 	background-position: center;
 	display: flex;
